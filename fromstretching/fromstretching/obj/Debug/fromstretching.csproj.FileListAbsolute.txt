@@ -1,0 +1,10 @@
+C:\Users\430Server\Desktop\천지연\ImageProcessing\fromstretching\fromstretching\obj\Debug\fromstretching.csprojAssemblyReference.cache
+C:\Users\430Server\Desktop\천지연\ImageProcessing\fromstretching\fromstretching\obj\Debug\fromstretching.Form1.resources
+C:\Users\430Server\Desktop\천지연\ImageProcessing\fromstretching\fromstretching\obj\Debug\fromstretching.Properties.Resources.resources
+C:\Users\430Server\Desktop\천지연\ImageProcessing\fromstretching\fromstretching\obj\Debug\fromstretching.csproj.GenerateResource.cache
+C:\Users\430Server\Desktop\천지연\ImageProcessing\fromstretching\fromstretching\obj\Debug\fromstretching.csproj.CoreCompileInputs.cache
+C:\Users\430Server\Desktop\천지연\ImageProcessing\fromstretching\fromstretching\bin\Debug\fromstretching.exe.config
+C:\Users\430Server\Desktop\천지연\ImageProcessing\fromstretching\fromstretching\bin\Debug\fromstretching.exe
+C:\Users\430Server\Desktop\천지연\ImageProcessing\fromstretching\fromstretching\bin\Debug\fromstretching.pdb
+C:\Users\430Server\Desktop\천지연\ImageProcessing\fromstretching\fromstretching\obj\Debug\fromstretching.exe
+C:\Users\430Server\Desktop\천지연\ImageProcessing\fromstretching\fromstretching\obj\Debug\fromstretching.pdb
