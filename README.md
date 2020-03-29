@@ -10,7 +10,7 @@ example 1.
 example 2.
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2F7yfW3%2FbtqC0KHhQ23%2FJNs6YYhOa1IjpsC2q7n5BK%2Fimg.png">
 
-### Algorithm
+### Algorithms
 
 + Contrast Enhancement
 
