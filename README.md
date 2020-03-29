@@ -4,7 +4,21 @@
 
 ### Preview
 
+example 1.
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fcgvm9H%2FbtqC49ejx17%2F9984mGOQVik11qULGD98jK%2Fimg.png">
+
+example 2.
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2F7yfW3%2FbtqC0KHhQ23%2FJNs6YYhOa1IjpsC2q7n5BK%2Fimg.png">
+
+### Algorithm
+
++ Contrast Enhancement
+
++ Fuzzy Stretching
+
++ Histogram Equalization
+
++ Interpolation
 
 ### Author
 
