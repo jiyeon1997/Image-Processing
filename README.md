@@ -2,6 +2,8 @@
 
 본 repository는 영상처리 수업 기말고사 발표 자료입니다. 
 
+This repository is the presentation material for the final exam of the image processing class.
+
 ### Preview
 
 example 1.
