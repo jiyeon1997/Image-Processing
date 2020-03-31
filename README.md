@@ -7,10 +7,10 @@ This repository is the presentation material for the final exam of the image pro
 ### Preview
 
 example 1.
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fcgvm9H%2FbtqC49ejx17%2F9984mGOQVik11qULGD98jK%2Fimg.png">
+<img width="1518" alt="스크린샷 2020-03-29 오후 9 32 38" src="https://user-images.githubusercontent.com/45894275/78001016-14293e00-7370-11ea-8001-0e2e8513aeb6.png">
 
 example 2.
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2F7yfW3%2FbtqC0KHhQ23%2FJNs6YYhOa1IjpsC2q7n5BK%2Fimg.png">
+<img width="744" alt="아이" src="https://user-images.githubusercontent.com/45894275/78001054-20150000-7370-11ea-8dd0-c8bd2667b503.png">
 
 ### Algorithms
 
