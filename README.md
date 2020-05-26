@@ -9,7 +9,7 @@ This repository is the presentation material for the final exam of the image pro
 example 1.
 <img width="1518" alt="스크린샷 2020-03-29 오후 9 32 38" src="https://user-images.githubusercontent.com/45894275/78001016-14293e00-7370-11ea-8001-0e2e8513aeb6.png">
 
-example 2.
+example 2.  
 <img width="744" alt="아이" src="https://user-images.githubusercontent.com/45894275/78001054-20150000-7370-11ea-8dd0-c8bd2667b503.png">
 
 ### Algorithms
